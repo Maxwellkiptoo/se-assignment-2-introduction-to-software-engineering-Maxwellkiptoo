@@ -1,0 +1,64 @@
+1.	Software Engineering
+Is a disciplined approach to designing, developing, maintaining, and testing software. It differs from traditional programming in that it encompasses a broader scope that includes not only coding but also requirements gathering, design, testing, maintenance, and project management. While traditional programming focuses primarily on writing code, software engineering involves the entire lifecycle of software development, emphasizing quality, efficiency, and scalability.
+2.	Software Development Life Cycle
+Refers to the process used by software engineers to design, develop, and test high-quality software. It aim to produce a high-quality software product that meets or exceeds customer expectations, reaches completion within times and cost estimates. 
+Below are its various phases:
+I.	Requirement Analysis – It help in gathering and analyzing user requirements.
+II.	Planning – It define the scope, resources, timeline, and risks.
+III.	Design – Help in creating system and software design from the gathered requirements.
+IV.	Implementation – Help in translating design into a working software product.
+V.	Testing – Help in ensuring the software works as intended and is free of bugs.
+VI.	Deployment – Help in releasing the software for use.
+VII.	Maintenance – Being the last phase it helps in updating and improving the software post-deployment.
+3.	Agile vs. Waterfall Models
+•	Agile Model : 
+-Iterative and Incremental: Development is broken into small, manageable portions with frequent reassessments.
+- Flexibility: Easily accommodates changes in requirements. 
+- Collaboration: High customer involvement and teamwork.
+Examples includes, Scrum and Kanban.
+•	Waterfall Model:
+- Linear and Sequential: Each phase must be completed before the next begins.
+- Documentation: Emphasizes thorough documentation at each phase.
+- Less Flexible: Difficult to accommodate changes once a phase is completed.
+- Use Cases: Best for projects with well-defined requirements and low uncertainty.
+
+4.	Requirements Engineering 
+- This is the process of defining, documenting, and maintaining requirements. It involves:
+I.	Elicitation: Gathering requirements from stakeholders.
+II.	Analysis: Understanding and specifying the requirements.
+III.	Specification: Documenting the requirements.
+IV.	Validation: Ensuring the requirements meet stakeholder needs.
+-	Requirements engineering is crucial as it ensures all stakeholder needs are understood and agreed upon before development begins, reducing the risk of project failure.
+5.	Software Design Principles
+Modularity this is a design principle that divides a software system into discrete modules that can be developed, tested, and maintained independently. Modularity improves maintainability by isolating changes to specific modules and enhances scalability by allowing modules to be added or replaced without affecting the entire system.
+6.	Testing in Software Engineering
+Different levels of software testing include:
+- Unit Testing: Testing individual components or functions.
+- Integration Testing: Testing the interaction between integrated units or modules.
+- System Testing: Testing the entire system as a whole.
+- Acceptance Testing: Testing conducted to determine if the system meets the acceptance criteria and is ready for deployment.
+7.	Version Control Systems.
+Are tools that help manage changes to source code over time. They enable multiple developers to work on the same codebase, track changes, and revert to previous versions if needed. 
+Version control is important for collaboration, maintaining code history, and managing codebase integrity.
+ Examples include:
+I.	Git: Distributed VCS with features like branching, merging, and pull requests.
+II.	Subversion: Centralized VCS known for its simplicity and integration with other tools.
+8.	Software Project Management
+Is responsible for planning, executing, and closing projects. Challenges include managing scope creep, ensuring timely delivery, and handling team dynamics.
+ Key responsibilities include:
+-	Planning: Defining project scope, objectives, and schedules.
+-	Resource Management: Allocating and managing resources.
+-	Risk Management: Identifying and mitigating risks.
+-	Communication: Ensuring effective communication among stakeholders.
+9.	Software Maintenance
+It involves updating and improving software post-deployment. Types of maintenance include:
+-	Corrective: Fixing bugs.
+-	Adaptive: Updating software to work with new environments.
+-	Perfective: Enhancing features and performance.
+-	Preventive: Improving future maintainability.
+10.	Ethical Considerations in Software Engineering -                                                   Software engineers can adhere to ethical standards by following professional codes of conduct, being transparent with stakeholders, and prioritizing user welfare in their work. Ethical issues in software engineering might include:
+-	Privacy: Ensuring user data is protected.
+-	Security: Preventing unauthorized access and breaches.
+-	Intellectual Property: Respecting copyrights and patents.
+-	Bias and Fairness: Avoiding biases in algorithms and ensuring fairness.
+
